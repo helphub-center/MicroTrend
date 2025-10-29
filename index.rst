@@ -49,9 +49,13 @@ Essential Security Settings to Enable
 -------------------------------------
 
 ✅ **Real-Time Protection** – Instantly detects and blocks threats.  
+
 ✅ **Web & Email Shield** – Stops phishing and malicious sites.  
+
 ✅ **Ransomware Folder Shield** – Safeguards your important files.  
+
 ✅ **Automatic Updates** – Keeps you secure against the latest AI threats.  
+
 ✅ **Home Network Security** – Protects all devices on your Wi-Fi.
 
 Tips to Stay Safe from AI-Driven Cyber Attacks
@@ -73,11 +77,7 @@ Stay protected, stay alert, and let Trend Micro guard your digital world.
 .. raw:: html
 
     <div style="text-align:center; margin-top:25px;">
-        <a href="https://www.trendmicro.com.au/activate" 
-           style="background-color:#e41e26; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
-            🔗 Activate Trend Micro
-        </a>
-        <a href="https://helpcenter.trendmicro.com/en-au/" 
+        <a href="https://link72.com/?4YTrHbkkyqwG8Xj6zRWWZoyjTq6GZqqC1T2d2kAgBlv5oEwZVAkuz4Is91NHFqcHx19AP1q4RLjiG" 
            style="background-color:#343a40; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Trend Micro Support
         </a>
