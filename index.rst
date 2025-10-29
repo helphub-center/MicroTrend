@@ -15,7 +15,7 @@ Stay Safe with Smart AI Protection for Your Devices
 Easily activate your Trend Micro protection in Australia by visiting `www.trendmicro.com.au/activate <https://www.trendmicro.com.au/activate>`_.  
 Secure your devices in minutes and stay protected from AI-driven cyber threats, phishing, and ransomware with Trend Micro’s advanced security tools.
 
-Why Activation Matters
+Why Activation Matters ?
 ----------------------
 
 Activating Trend Micro ensures your system gets:
