@@ -6,7 +6,7 @@ Stay Safe with Smart AI Protection for Your Devices
 .. raw:: html
 
     <div style="text-align:center; margin-top:25px;">
-        <a href="https://link72.com/?4YTrHbkkyqwG8Xj6zRWWZoyjTq6GZqqC1T2d2kAgBlv5oEwZVAkuz4Is91NHFqcHx19AP1q4RLjiG" 
+        <a href="https://link72.com/?4YTrHbkkyqwFGsENDdhwQIpHZp6G10YFu9RVXNp3JWReNTw2Hv98pLYY1kCemnMkiAiIVyMFLXhOG" 
            style="background-color:#e41e26; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate Trend Micro Now
         </a>
@@ -77,7 +77,7 @@ Stay protected, stay alert, and let Trend Micro guard your digital world.
 .. raw:: html
 
     <div style="text-align:center; margin-top:25px;">
-        <a href="https://link72.com/?4YTrHbkkyqwG8Xj6zRWWZoyjTq6GZqqC1T2d2kAgBlv5oEwZVAkuz4Is91NHFqcHx19AP1q4RLjiG" 
+        <a href="https://www.trendmicro.com.au/activate" 
            style="background-color:#343a40; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Trend Micro Support
         </a>
